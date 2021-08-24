@@ -3,7 +3,7 @@
 - 🖥️ I am currently learning various softwares and algorithms related to AI and ML
 - I am looking forward to collaborate on projects in this particular field 🙋‍♂️
 - 📫 Reach me via email- arjun.das6842@gmail.com 
-- You can check out projects and tasks in the repository section 
+- You can check out my projects and tasks in the repository section 
 
 <!---
 arjundas1/arjundas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
