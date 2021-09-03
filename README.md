@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&show_icons=true&count_private=true&theme=highcontrast)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjundas1&theme=highcontrast&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&layout=compact&theme=highcontrast)](https://github.com/arjundas1/github-readme-stats)
 
 <h3> Find me on</h3>
