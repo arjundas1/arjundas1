@@ -5,11 +5,6 @@
 - 📫 Reach me via email- arjun.das6842@gmail.com 
 - You can check out my projects and tasks in the repository section 
 
-## GitHub Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&show_icons=true&count_private=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&layout=compact&theme=highcontrast)](https://github.com/arjundas1/github-readme-stats)
-
 <h3> Find me on</h3>
 <a href="https://github.com/arjundas1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/arjun-das-0983561ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
