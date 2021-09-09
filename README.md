@@ -16,12 +16,16 @@
   <img alt="Java" height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=blue"/>
   <img alt="HTML5" height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="R" height="30" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=yellow"/>
+  
 </p>
 
 <h3> Find me on: </h3>
 <a href="https://github.com/arjundas1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/arjun-das-0983561ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://arjun-das6842.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow"/></a>
 <a href="https://instagram.com/arjun_._das" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
+<a href="https://www.researchgate.net/profile/Arjun-Das-7" target="_blank"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 
 <!---
 arjundas1/arjundas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
