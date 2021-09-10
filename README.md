@@ -7,6 +7,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arjundas1)
 
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&theme=highcontrast&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&theme=highcontrast&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjundas1&theme=highcontrast)](https://www.youtube.com/watch?v=PzQihlLABng)
+
 ### Languages and Skills:
 
 <p>
