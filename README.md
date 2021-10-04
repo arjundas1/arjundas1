@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arjundas1)
 
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&theme=highcontrast&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&theme=highcontrast&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&theme=highcontrast&layout=compact)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjundas1&theme=highcontrast)](https://www.youtube.com/watch?v=PzQihlLABng)
 
 ### Languages and Skills:
@@ -30,6 +30,8 @@
 <a href="https://arjun-das6842.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow"/></a>
 <a href="https://instagram.com/arjun_._das" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 <a href="https://www.researchgate.net/profile/Arjun-Das-7" target="_blank"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
+
+[![Arjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=arjundas1&theme=xcode&layout=compact)](https://git.io/arjundas1)
 
 <!---
 arjundas1/arjundas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
