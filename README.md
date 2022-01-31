@@ -31,8 +31,6 @@
 <a href="https://instagram.com/arjun_._das" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 <a href="https://www.researchgate.net/profile/Arjun-Das-7" target="_blank"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 
-[![Arjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=arjundas1&theme=xcode&layout=compact)](https://git.io/arjundas1)
-
 <!---
 arjundas1/arjundas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
