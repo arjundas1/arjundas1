@@ -7,9 +7,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arjundas1)
 
-[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&theme=highcontrast&show_icons=true&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&theme=highcontrast&layout=compact)]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjundas1&theme=highcontrast)]
+![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&theme=highcontrast&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&theme=highcontrast&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjundas1&theme=highcontrast)
 
 ### Languages and Skills:
 
